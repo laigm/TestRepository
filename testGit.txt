@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 adjhjdhj727家啊大家
 第二次编辑
 master分支更改testGit.txt
+dev分支更改testGit.txt
